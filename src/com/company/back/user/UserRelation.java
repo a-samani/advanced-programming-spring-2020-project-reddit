@@ -1,4 +1,4 @@
 package com.company.back.user;
 
-public class user {
+public class UserRelation {
 }
